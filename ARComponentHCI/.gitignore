@@ -97,3 +97,17 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Unity Package Manager cache
+Packages/PackageCache/
+
+# Package Manager tarballs
+Packages/*.tgz
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode
+.idea/
+.vscode/
